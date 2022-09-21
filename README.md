@@ -76,8 +76,8 @@ I have a wide range of experience using the technologies and software listed bel
 <h3>CSS & Preprocessors</h3>
 <hr/>
 
-<img src="https://github.com/cheskidov/cheskidov/blob/main/assets/svg-icons/css/CSS_dark.svg#gh-dark-mode-only" title="Stylus" alt="Stylus dark mode logo">
-<img src="https://github.com/cheskidov/cheskidov/blob/main/assets/svg-icons/css/CSS_light.svg#gh-light-mode-only" title="Stylus" alt="Stylus light mode logo">
+<img src="https://github.com/cheskidov/cheskidov/blob/main/assets/svg-icons/css/CSS_dark.svg#gh-dark-mode-only" title="CSS" alt="CSS dark mode logo">
+<img src="https://github.com/cheskidov/cheskidov/blob/main/assets/svg-icons/css/CSS_light.svg#gh-light-mode-only" title="CSS" alt="CSS light mode logo">
 <img src="https://github.com/cheskidov/cheskidov/blob/main/assets/svg-icons/css/Sass_dark.svg#gh-dark-mode-only" title="Sass" alt="Sass dark mode logo">
 <img src="https://github.com/cheskidov/cheskidov/blob/main/assets/svg-icons/css/Sass_light.svg#gh-light-mode-only" title="Sass" alt="Sass light mode logo">
 <img src="https://github.com/cheskidov/cheskidov/blob/main/assets/svg-icons/css/Less_dark.svg#gh-dark-mode-only" title="Less" alt="Less dark mode logo">
